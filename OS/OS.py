@@ -117,7 +117,7 @@ popup_menu.add_command(label="DOS Prompt", command=open_script)
 popup_menu.add_command(label="Games", command=open_game)
 popup_menu.add_command(label="Notepad", command=open_txt)
 popup_menu.add_command(label="Internet Explorer", command=open_internet)
-popup_menu.add_command(label="About EazyOS", command=open_about)
+
 popup_menu.add_separator()
 popup_menu.add_command(label="Restart", command=restart_program)
 popup_menu.add_command(label="Exit", command=exit_program)
@@ -175,3 +175,4 @@ context_menu.add_command(label="Internet Explorer", command=open_internet)
 root.bind("<Button-3>", lambda e: context_menu.post(e.x_root, e.y_root))
 
 root.mainloop()
+
