@@ -37,7 +37,8 @@ echo.
 
 :: === Run your Python program ===
 :: Adjust path if boot.py is not in parent folder
-cd ..
+
 py boot.py
 
 pause
+
