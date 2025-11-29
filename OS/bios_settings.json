@@ -1,0 +1,28 @@
+{
+  "boot_order": [
+    "HDD",
+    "USB",
+    "NETWORK",
+    "CDROM"
+  ],
+  "secure_boot": true,
+  "virtualization": true,
+  "fast_boot": false,
+  "timezone": "Windows",
+  "admin_password": "sex",
+  "hyper_threading": true,
+  "tpm_enabled": true,
+  "xmp_profile": "Auto",
+  "cpu_multiplier": 36,
+  "fan_speed": 100,
+  "acpi": true,
+  "wake_on_lan": false,
+  "overclock_enabled": false,
+  "fan_curve": [
+    30,
+    40,
+    60,
+    80
+  ],
+  "hide_cursor": false
+}
