@@ -1,0 +1,13 @@
+Updates:
+1. Added a boot sound.
+
+2. Added BIOS simulator.
+
+3. Added option to change username and password.
+
+4. Added music to setup
+
+5. Added a different song 
+===================
+Bugs:
+No known bugs so far...
