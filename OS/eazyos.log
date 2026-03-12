@@ -1,0 +1,165 @@
+2026-03-07 15:18:39,877 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:18:39,877 - INFO - Config file not found, using default
+2026-03-07 15:18:39,877 - WARNING - BIOS system file not found: bios.py
+2026-03-07 15:18:39,976 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:18:39,977 - INFO - Config file not found, using default
+2026-03-07 15:18:39,981 - INFO - Windows taskbar hidden
+2026-03-07 15:18:39,982 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:18:39,982 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:18:39,982 - INFO - Config file not found, using default
+2026-03-07 15:18:39,999 - INFO - Playing sound: The Microsoft Sound.wav
+2026-03-07 15:18:40,000 - INFO - EazyOS Desktop initialized successfully
+2026-03-07 15:18:40,111 - INFO - Loading saved theme...
+2026-03-07 15:18:40,112 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:18:40,112 - INFO - Config file not found, using default
+2026-03-07 15:18:40,113 - INFO - Applied background color: #008080
+2026-03-07 15:18:40,113 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:19:26,130 - INFO - Config file changed — reloading settings
+2026-03-07 15:19:26,131 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:26,131 - INFO - Config file found, loading...
+2026-03-07 15:19:26,141 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:26,141 - INFO - Applied background color: #008080
+2026-03-07 15:19:26,142 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:19:26,142 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:26,142 - INFO - Config file found, loading...
+2026-03-07 15:19:26,143 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:26,143 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:19:42,196 - INFO - Config file changed — reloading settings
+2026-03-07 15:19:42,197 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:42,197 - INFO - Config file found, loading...
+2026-03-07 15:19:42,208 - INFO - Loaded configuration: {'theme': {'type': 'wallpaper', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:42,208 - INFO - Applied background color: #008080
+2026-03-07 15:19:42,209 - INFO - apply_from_config: type=wallpaper, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:19:42,209 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:42,209 - INFO - Config file found, loading...
+2026-03-07 15:19:42,210 - INFO - Loaded configuration: {'theme': {'type': 'wallpaper', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:42,210 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:19:54,250 - INFO - Config file changed — reloading settings
+2026-03-07 15:19:54,251 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:54,251 - INFO - Config file found, loading...
+2026-03-07 15:19:54,262 - INFO - Loaded configuration: {'theme': {'type': '', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:54,263 - INFO - Applied background color: #008080
+2026-03-07 15:19:54,264 - INFO - apply_from_config: type=, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:19:54,264 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:19:54,265 - INFO - Config file found, loading...
+2026-03-07 15:19:54,265 - INFO - Loaded configuration: {'theme': {'type': '', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:19:54,265 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:20:06,296 - INFO - Config file changed — reloading settings
+2026-03-07 15:20:06,297 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:06,297 - INFO - Config file found, loading...
+2026-03-07 15:20:06,300 - INFO - Loaded configuration: {'theme': {'type': '', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:06,302 - INFO - Applied background color: #008080
+2026-03-07 15:20:06,304 - INFO - apply_from_config: type=, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:20:06,305 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:06,305 - INFO - Config file found, loading...
+2026-03-07 15:20:06,306 - INFO - Loaded configuration: {'theme': {'type': '', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:06,306 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:20:10,316 - INFO - Config file changed — reloading settings
+2026-03-07 15:20:10,316 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:10,317 - INFO - Config file found, loading...
+2026-03-07 15:20:10,318 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:10,319 - INFO - Applied background color: #008080
+2026-03-07 15:20:10,320 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:20:10,320 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:10,320 - INFO - Config file found, loading...
+2026-03-07 15:20:10,321 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:10,321 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:20:52,488 - INFO - Config file changed — reloading settings
+2026-03-07 15:20:52,488 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:52,489 - INFO - Config file found, loading...
+2026-03-07 15:20:52,504 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:52,505 - INFO - Applied background color: #DC143C
+2026-03-07 15:20:52,507 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:20:52,507 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:20:52,507 - INFO - Config file found, loading...
+2026-03-07 15:20:52,508 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:20:52,508 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:21:10,556 - INFO - Config file changed — reloading settings
+2026-03-07 15:21:10,556 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:21:10,557 - INFO - Config file found, loading...
+2026-03-07 15:21:10,567 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#DC143C', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:21:10,568 - INFO - Applied background color: #DC143C
+2026-03-07 15:21:10,569 - INFO - apply_from_config: type=color, taskbar=#DC143C, title_bar=#000080
+2026-03-07 15:21:10,569 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:21:10,570 - INFO - Config file found, loading...
+2026-03-07 15:21:10,570 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#DC143C', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:21:10,570 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:21:30,631 - INFO - Config file changed — reloading settings
+2026-03-07 15:21:30,631 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:21:30,631 - INFO - Config file found, loading...
+2026-03-07 15:21:30,648 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#DC143C', 'window_title_color': '#DC143C'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:21:30,648 - INFO - Applied background color: #DC143C
+2026-03-07 15:21:30,649 - INFO - apply_from_config: type=color, taskbar=#DC143C, title_bar=#DC143C
+2026-03-07 15:21:30,649 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:21:30,649 - INFO - Config file found, loading...
+2026-03-07 15:21:30,650 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#DC143C', 'wallpaper': '', 'taskbar_color': '#DC143C', 'window_title_color': '#DC143C'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:21:30,650 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:21:43,439 - INFO - Windows taskbar restored
+2026-03-07 15:22:03,375 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:03,376 - INFO - Config file not found, using default
+2026-03-07 15:22:03,376 - WARNING - BIOS system file not found: bios.py
+2026-03-07 15:22:03,398 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:03,398 - INFO - Config file not found, using default
+2026-03-07 15:22:03,400 - INFO - Windows taskbar hidden
+2026-03-07 15:22:03,401 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:22:03,401 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:03,401 - INFO - Config file not found, using default
+2026-03-07 15:22:03,408 - INFO - Playing sound: The Microsoft Sound.wav
+2026-03-07 15:22:03,409 - INFO - EazyOS Desktop initialized successfully
+2026-03-07 15:22:03,522 - INFO - Loading saved theme...
+2026-03-07 15:22:03,522 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:03,523 - INFO - Config file not found, using default
+2026-03-07 15:22:03,523 - INFO - Applied background color: #008080
+2026-03-07 15:22:03,524 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:22:13,456 - INFO - Config file changed — reloading settings
+2026-03-07 15:22:13,456 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:13,457 - INFO - Config file found, loading...
+2026-03-07 15:22:13,461 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:22:13,463 - INFO - Applied background color: #008080
+2026-03-07 15:22:13,465 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:22:13,465 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:22:13,466 - INFO - Config file found, loading...
+2026-03-07 15:22:13,466 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:22:13,467 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:24:21,911 - INFO - Config file changed — reloading settings
+2026-03-07 15:24:21,911 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:24:21,911 - INFO - Config file found, loading...
+2026-03-07 15:24:21,922 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'false', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:24:21,923 - INFO - Applied background color: #008080
+2026-03-07 15:24:21,924 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:24:21,924 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:24:21,924 - INFO - Config file found, loading...
+2026-03-07 15:24:21,925 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'false', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:24:21,926 - INFO - System settings applied: sounds=True, clock=False, auto_hide_taskbar=True
+2026-03-07 15:24:45,991 - INFO - Config file changed — reloading settings
+2026-03-07 15:24:45,991 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:24:45,991 - INFO - Config file found, loading...
+2026-03-07 15:24:45,996 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:24:45,997 - INFO - Applied background color: #008080
+2026-03-07 15:24:45,998 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 15:24:45,998 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 15:24:45,998 - INFO - Config file found, loading...
+2026-03-07 15:24:45,999 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 15:24:45,999 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 15:27:07,925 - INFO - Windows taskbar restored
+2026-03-07 19:54:33,172 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 19:54:33,173 - INFO - Config file found, loading...
+2026-03-07 19:54:33,181 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 19:54:33,182 - WARNING - BIOS system file not found: bios.py
+2026-03-07 19:54:33,269 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 19:54:33,270 - INFO - Config file found, loading...
+2026-03-07 19:54:33,270 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 19:54:33,276 - INFO - Windows taskbar hidden
+2026-03-07 19:54:33,276 - INFO - System settings applied: sounds=True, clock=True, auto_hide_taskbar=True
+2026-03-07 19:54:33,276 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 19:54:33,277 - INFO - Config file found, loading...
+2026-03-07 19:54:33,277 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 19:54:33,280 - INFO - Playing sound: The Microsoft Sound.wav
+2026-03-07 19:54:33,280 - INFO - EazyOS Desktop initialized successfully
+2026-03-07 19:54:33,392 - INFO - Loading saved theme...
+2026-03-07 19:54:33,393 - INFO - Looking for config file at: A:\programs\EazyOS-EazyOS-3.0\OS\eazyos_config.json
+2026-03-07 19:54:33,393 - INFO - Config file found, loading...
+2026-03-07 19:54:33,393 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#008080', 'wallpaper': '', 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'true', 'enable_sounds': 'true', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-03-07 19:54:33,394 - INFO - Applied background color: #008080
+2026-03-07 19:54:33,395 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-03-07 19:54:38,411 - INFO - Windows taskbar restored
