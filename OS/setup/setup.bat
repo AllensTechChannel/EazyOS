@@ -2,7 +2,7 @@
 title EazyOS Installer
 color 1F
 setlocal enabledelayedexpansion
-start song.vbs
+if exist song.vbs start song.vbs
 
 echo ====================================================
 echo Checking Python installation...
@@ -17,15 +17,12 @@ if %errorlevel% neq 0 (
     set "PY_EXE=python-installer.exe"
     
     echo Downloading Python !PY_VER!...
-	powershell Invoke-WebRequest -Uri https://aka.ms/getwinget -OutFile winget.msixbundle
-Add-AppxPackage winget.msixbundle
-del winget.msixbundle
-    winget install Python.Python.3.14.3
-    if %errorlevel% neq 0 (
-        echo Failed to download Python. Check your internet connection.
-        pause
-        exit /b 1
-    )
+	
+
+    winget install -e --id Python.Python.3.13 --silent --accept-package-agreements --scope machine
+
+
+   
 
     echo Installing Python... Please wait...
     :: Install silently, add to PATH, and install pip for all users
@@ -42,7 +39,7 @@ echo Python is already installed.
 echo.
 cd /d "%~dp0"
 :: Start background audio if it exists
-if exist song.vbs start song.vbs
+
 COLOR 1F
 
 echo Installing/Updating required packages...
@@ -95,8 +92,22 @@ echo Installing cpuinfo
 echo.
 py -c "import cpuinfo; print('v py-cpuinfo')"
 
-
+echo.
+echo Installing PyQt5
+echo.
 cls
+py -m pip install PyQt5
+
+echo.
+echo PyQtWebEngine
+echo.
+
+py -m pip install PyQtWebEngine
+
+echo.
+echo Installing ttkbootstrap
+echo.
+py -m pip install ttkbootstrap
 
 echo.
 echo Attempting to install requests
