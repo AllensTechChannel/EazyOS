@@ -1,0 +1,4 @@
+[Wed 03/11/2026 21:15:22.35] [INFO] Installer started 
+[Wed 03/11/2026 21:15:27.04] [INFO] Install path: C:\EazyOS 
+[Wed 03/11/2026 21:15:27.05] [INFO] Installation music started 
+[Wed 03/11/2026 21:15:27.12] [INFO] Downloading ZIP 
