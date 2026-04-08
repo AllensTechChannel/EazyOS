@@ -1,0 +1,11 @@
+Updates For EazyOS 3.1.2:
+
+1. Added Safe Mode.
+
+2. Fixed Programs Didn't Show Up
+
+3. Fixed Other Small Bugs.
+
+===================
+Known Bugs:
+No Bugs Found So Far (-: ...
