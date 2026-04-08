@@ -1,0 +1,18 @@
+# EazyOS
+A Simple GUI OS
+#### End Of Support Date: Feb 16 2036
+Updates
+Updates For EazyOS 3.1:
+
+1. Updated message boxes and general UI.
+
+2. Improved Setup.
+
+3. OS automatically saves theme.
+
+4. Added a variable editor (so kind of like the Windows Registry Editor)   
+
+5. Updated the update feature to detect if EazyOS is up to date. 
+===================
+Known Bugs:
+No Bugs Found So Far (: ...
