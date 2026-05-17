@@ -1,0 +1,20 @@
+2026-05-17 08:09:32,827 - INFO - Looking for config file at: C:\Users\Adminastrator\Downloads\EazyOS-EazyOS-3.1.2-Service-Pack-2\OS\boot\safemode\OS\eazyos_config.json
+2026-05-17 08:09:32,827 - INFO - Config file found, loading...
+2026-05-17 08:09:32,827 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#000000', 'wallpaper': None, 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'false', 'enable_sounds': 'false', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-05-17 08:09:32,827 - WARNING - BIOS system file not found: bios.py
+2026-05-17 08:09:32,842 - INFO - Looking for config file at: C:\Users\Adminastrator\Downloads\EazyOS-EazyOS-3.1.2-Service-Pack-2\OS\boot\safemode\OS\eazyos_config.json
+2026-05-17 08:09:32,842 - INFO - Config file found, loading...
+2026-05-17 08:09:32,842 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#000000', 'wallpaper': None, 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'false', 'enable_sounds': 'false', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-05-17 08:09:32,842 - INFO - Windows taskbar hidden
+2026-05-17 08:09:32,858 - INFO - System settings applied: sounds=False, clock=True, auto_hide_taskbar=True
+2026-05-17 08:09:32,858 - INFO - Looking for config file at: C:\Users\Adminastrator\Downloads\EazyOS-EazyOS-3.1.2-Service-Pack-2\OS\boot\safemode\OS\eazyos_config.json
+2026-05-17 08:09:32,858 - INFO - Config file found, loading...
+2026-05-17 08:09:32,858 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#000000', 'wallpaper': None, 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'false', 'enable_sounds': 'false', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-05-17 08:09:32,858 - INFO - EazyOS Desktop initialized successfully
+2026-05-17 08:09:32,952 - INFO - Loading saved theme...
+2026-05-17 08:09:32,952 - INFO - Looking for config file at: C:\Users\Adminastrator\Downloads\EazyOS-EazyOS-3.1.2-Service-Pack-2\OS\boot\safemode\OS\eazyos_config.json
+2026-05-17 08:09:32,952 - INFO - Config file found, loading...
+2026-05-17 08:09:32,952 - INFO - Loaded configuration: {'theme': {'type': 'color', 'color': '#000000', 'wallpaper': None, 'taskbar_color': '#c0c0c0', 'window_title_color': '#000080'}, 'system': {'startup_sound': 'false', 'enable_sounds': 'false', 'show_clock': 'true', 'auto_hide_windows_taskbar': 'true'}}
+2026-05-17 08:09:32,952 - INFO - Applied background color: #000000
+2026-05-17 08:09:32,952 - INFO - apply_from_config: type=color, taskbar=#c0c0c0, title_bar=#000080
+2026-05-17 08:09:36,118 - INFO - Windows taskbar restored

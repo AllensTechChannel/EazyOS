@@ -1,0 +1,15 @@
+{
+    "theme": {
+        "type": "color",
+        "color": "#000000",
+        "wallpaper": null,
+        "taskbar_color": "#c0c0c0",
+        "window_title_color": "#000080"
+    },
+    "system": {
+        "startup_sound": "false",
+        "enable_sounds": "false",
+        "show_clock": "true",
+        "auto_hide_windows_taskbar": "true"
+    }
+}
