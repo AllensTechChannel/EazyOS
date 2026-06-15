@@ -1,0 +1,28 @@
+ 
+ =========================
+
+ Release Notes
+
+ =========================
+
+ 1. Improved About Box
+ 2. Improved DOS Prompt
+ 3. Improved Notepad
+ 4. Added "Extra Information" Menu to the Start Menu
+ 5. Changed the Buttons on Shutdown, Restart, and Logout Message Box to "Yes" and "No."
+ 6. Fix Minor Bugs
+8
+ ========================= 
+
+ Things to Come
+
+ =========================
+
+ 1. Adding a Better Window Manager in Pre-Release v2
+ 2. Organizing Start Menu in Pre-Release v2
+ 3. Other Things to Come in the Future! (-:
+
+ =========================
+
+
+
