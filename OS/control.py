@@ -396,8 +396,7 @@ class SystemPage(tk.Frame):
         self.cfg = cfg
         self.on_save = on_save
         self._build()
-
-    def _build(self):
+def _build(self):
         win98_label(self, "System Settings", bold=True).pack(anchor="w", padx=10, pady=(10, 2))
         separator(self)
 
@@ -411,7 +410,7 @@ class SystemPage(tk.Frame):
         box2 = section_box(self, "System Information")
         info = [
             ("OS Name",     "EazyOS 3"),
-            ("Version",     "3.1.2 (Service Pack 2)"),
+            ("Version",     "EazyOS 3.2 Pre-Release Version 1"),
             ("Build",       "Desktop Shell"),
             ("Config File", os.path.basename(CONFIG_FILE)),
         ]
@@ -439,9 +438,9 @@ class AboutPage(tk.Frame):
 
         box = section_box(self, "EazyOS Control Panel")
         lines = [
-            ("EazyOS Control Panel",                     True),
+            
             ("",                                          False),
-            ("3.1.2 (Service Pack 2)",                    False),
+            ("EazyOS 3.2 Pre-Release Version 1",          False),
             ("A Windows 98-style desktop environment.",   False),
             ("",                                          False),
             ("Settings are saved to eazyos_config.json", False),
