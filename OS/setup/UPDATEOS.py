@@ -21,7 +21,7 @@ def run_bat_terminal(bat_path: str):
 
 
 def manage_users():
-    bat_path = "setup3.2.bat"
+    bat_path = "setup-3.2-Pre-Rel-1.bat"
 
     if not os.path.exists(bat_path):
         print("Batch file not found:", bat_path)
