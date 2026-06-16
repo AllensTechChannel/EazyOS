@@ -396,7 +396,8 @@ class SystemPage(tk.Frame):
         self.cfg = cfg
         self.on_save = on_save
         self._build()
-def _build(self):
+
+    def _build(self):
         win98_label(self, "System Settings", bold=True).pack(anchor="w", padx=10, pady=(10, 2))
         separator(self)
 
