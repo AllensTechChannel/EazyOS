@@ -72,7 +72,7 @@ class LoginWindow:
         ).pack(pady=8)
 
     def _finish(self):
-            boot_path = os.path.join(BASE_DIR,"..","..","..", "boot.py")
+            boot_path = os.path.join("boot.py")
             subprocess.Popen([sys.executable, boot_path])
             self.root.destroy()
 
